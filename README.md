@@ -5,3 +5,12 @@
 ## SYNTAX IS A FAGGOT
 ## VAMP IS A COOL DOOD
 ## ZONEHAX IS A SKID
+
+### Install
+Install > Python Requirements
+
+Import Database
+
+run python ezira.py <port>
+
+Done.
